@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: red;
+}
+a{
+    text-align: center;
+    color: red;
+    text-decoration: none;
+}
+
+body{
+    background: url("壁纸1.jpg");
+    background-size: cover;
+}
